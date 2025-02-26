@@ -777,7 +777,7 @@
 // @updateURL    https://update.greasyfork.org/scripts/370246/Sci-hub%20button.meta.js
 // ==/UserScript==
 
-var sciHubBaseUrl = 'https://sci-hub.ee/'; // Set sci-hub url
+var sciHubBaseUrl = 'https://www.tesble.com/'; // Set sci-hub url
 // Visit this url to find out latest Sci-Hub url:
 // 查找最新的 Sci-Hub 网址：
 // https://sci-hub.win/
